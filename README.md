@@ -8,4 +8,4 @@
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
-[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+[![Github](https://img.shields.io/github/followers/ash-rick?label=Follow&style=social)](https://github.com/ash-rick)
