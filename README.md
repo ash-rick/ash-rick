@@ -1,4 +1,4 @@
-![Amisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=amishaaggarwal&show_icons=true&theme=radical&card_width=600)
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ash-rick&show_icons=true&theme=radical&card_width=600)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ash-rick&layout=compact&card_width=400&theme=tokyonight)](https://github.com/ash-rick/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ash-rick&theme=nightowl&mode=weekly&card_width=1005)](https://git.io/streak-stats)
