@@ -1,61 +1,51 @@
 <!-- 🌌 Animated Cosmic Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🚀%20Ashish%20Gupta&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Exploring%20the%20Cosmos%20of%20Code&descAlignY=55&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,7,12&height=250&section=header&text=🚀%20Ashish%20Gupta&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Exploring%20the%20Infinite%20Cosmos%20of%20Code%20✨&descAlignY=60&descAlign=62&fontColor=fff)
 
-<!-- ✨ Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Explorer+of+the+Universe;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
+<!-- ✨ Enhanced Typing Effect -->
+<div align="center" style="margin: 40px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🌟+Full+Stack+Developer+%7C+Code+Architect;🔭+Open+Source+Astronaut+%7C+Always+Learning;💫+Building+Tomorrow's+Solutions+Today" alt="Typing SVG" />
+</div>
+
+## 🚀 GitHub Stats & Technologies
+
+<div align="center">
+
+<!-- Stats Cards -->
+<img src="https://github-readme-stats.vercel.app/api?username=ash-rick&show_icons=true&theme=tokyonight&hide_border=true&card_width=495&bg_color=0D1117&title_color=58A6FF&icon_color=F85D7F&text_color=C9D1D9" alt="Ashish's GitHub stats" style="margin: 10px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash-rick&layout=compact&theme=tokyonight&hide_border=true&card_width=445&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" style="margin: 10px;"/>
+
+<img src="https://streak-stats.demolab.com?user=ash-rick&theme=tokyonight&hide_border=true&card_width=800&background=0D1117&stroke=58A6FF&ring=F85D7F&fire=F85D7F&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&dates=8B949E&sideLabels=C9D1D9" alt="GitHub Streak" style="margin: 20px 0;"/>
 
 ---
 
-<!-- 🌍 Orbit Animation -->
-<p align="center">
-  <svg width="200" height="200" viewBox="0 0 200 200">
-    <!-- Star -->
-    <circle cx="100" cy="100" r="20" fill="gold" />
-    <!-- Orbit path -->
-    <circle cx="100" cy="100" r="60" fill="none" stroke="white" stroke-dasharray="4 4"/>
-    <!-- Planet -->
-    <circle r="10" fill="deepskyblue">
-      <animateMotion dur="10s" repeatCount="indefinite" path="M 100,40 A 60,60 0 1,1 99.9,40" />
-    </circle>
-  </svg>
+### 🛠️ Technology Arsenal
+<p style="margin-top: 20px;">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,next,nodejs,python,java,mysql,mongodb,firebase,git,linux,docker,aws,tailwind,figma" />
 </p>
 
----
+</div>
 
-<!-- 🌠 Shooting Star Divider -->
-![shooting star](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer)
+## 📡 Connect & Explore
 
-### 🚀 GitHub Stats  
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ash-rick&show_icons=true&theme=radical&card_width=600)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ash-rick&layout=compact&card_width=400&theme=tokyonight)](https://github.com/ash-rick/github-readme-stats)  
+<div align="center" style="margin: 30px 0;">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ash-rick&theme=nightowl&mode=weekly&card_width=1005)](https://git.io/streak-stats)  
-![Leetcode Stats](https://leetcard.jacoblin.cool/ash_rick?ext=heatmap&font=lobster&width=1005&height=400)  
+[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ash-rick/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashrickgupta02@gmail.com)
 
----
+<br/><br/>
 
-<!-- 🌠 Shooting Star Divider -->
-![shooting star](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer)
+![Profile Views](https://komarev.com/ghpvc/?username=ash-rick&color=58A6FF&style=for-the-badge&label=Profile+Views)
+[![Followers](https://img.shields.io/github/followers/ash-rick?label=Space+Crew&style=for-the-badge&color=F85D7F&logo=github)](https://github.com/ash-rick)
 
-### 🛠️ Languages and Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,ts,react,next,redux,tailwind,sass,git,linux,mysql,firebase,figma,jest,cypress" />
-</p>
+<br/><br/>
+<em>"Code is poetry written in the language of logic" ✨</em>
 
----
+</div>
 
-<!-- ✨ Twinkling Stars Background (SVG hosted) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ash-rick/assets/main/stars.svg" alt="Twinkling Stars"/>
-</p>
+<!-- 🌌 Animated Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,7,12&height=120&section=footer&animation=fadeIn)
 
----
-
-### 📊 Profile Views & Followers  
-![](https://komarev.com/ghpvc/?username=ash-rick&color=blue)  
-[![Github](https://img.shields.io/github/followers/ash-rick?label=Follow&style=social)](https://github.com/ash-rick)  
-
----
-
-<!-- 🌌 Animated Cosmic Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+<div align="center" style="margin-top: 10px;">
+  <sub>🛸 Made with ❤️ and lots of ☕ by <strong>Ashish Gupta</strong></sub>
+</div>
